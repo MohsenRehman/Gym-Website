@@ -289,6 +289,7 @@ nav ul li a:hover::after {
     overflow: hidden;
     box-shadow: 0 30px 90px rgba(0, 0, 0, 0.6);
     animation: floatY 6s infinite ease-in-out;
+    
 }
 
 .about-content h3 {
